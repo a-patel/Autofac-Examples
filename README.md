@@ -1,8 +1,12 @@
 # Autofac in .NET
 
-Example projects that consume and demonstrate Autofac functionality and integration in ASP.NET.
+> Demo: Example project that consume and demonstrate Autofac functionality and integration in ASP.NET/.NET Core.
 
 
+
+Please refer to below article of my publication [.NET Hub](https://medium.com/dotnet-hub):
+
+- [Use Autofac IoC Container in ASP.NET or ASP.NET Core](https://medium.com/dotnet-hub/use-autofac-ioc-container-in-dotnet-or-aspnetcore-autofac-dependency-injection-netcore-ffad19d87163)
 
 
 
